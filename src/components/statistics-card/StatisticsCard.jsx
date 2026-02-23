@@ -8,7 +8,7 @@ import {
   Current,
   Previous,
 } from "./StatisticsCard.styles";
-import iconEllipsis from "../../assets/images/icon-ellipsis.svg";
+import iconEllipsis from "/images/icon-ellipsis.svg";
 
 export const StatisticsCard = ({ element }) => {
   const { title, image, bgColor, timeframes } = element;

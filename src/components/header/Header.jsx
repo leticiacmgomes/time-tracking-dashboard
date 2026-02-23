@@ -6,7 +6,7 @@ import {
   StatisticsModeControlWrapper,
   StatisticsModeControl,
 } from "./Header.styles";
-import imageJeremy from "../../assets/images/image-jeremy.png";
+import imageJeremy from "/images/image-jeremy.png";
 import { useModeStore } from "../../store/modeStore";
 
 export const Header = () => {
